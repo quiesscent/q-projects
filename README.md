@@ -1,7 +1,56 @@
-# quiesscent-makes-projects
-This is a repo containing projects I did to upskill as a software engineer. They include fullstack and Backend projects
+# Quiesscent Makes Projects
 
 
+This repository contains a collection of backend API projects built using different frameworks and technologies such as **Django**, **Express.js**, and **Nest JS**.
+
+Each project is organized in its own folder with clear structure, documentation, and setup instructions.
+
+## 🔧 Tech Stack
+
+Depending on the project, this repo may include:
+
+* **Python** / **TypeScript**
+* **Django Rest Framework**
+* **Express.js**, **NestJS**
+* **PostgreSQL**, **SQLite**
+* **JWT**, **OAuth2**, **Session Auth**
+* **Postman**, **Swagger / OpenAPI**
+
+## 📁 Project Structure
+
+[Memory/Task/Jouranling API](./q-memoirs)
+
+Each sub-project has its own:
+
+* `README.md` with usage/setup details
+* `requirements.txt` or `package.json`
+* Codebase, environment setup, and dependencies
+
+## 🚀 Getting Started
+
+Clone the repo:
+
+```bash
+git clone https://github.com/quiesscent/q-projects
+cd q-projects
+```
+
+Pick a project and follow the specific setup guide inside its folder.
+
+## 🧠 Goals
+
+* Practice building real-world backend systems
+* Improve skills in API design, authentication, and database modeling
+* Learn to structure scalable and maintainable backend code
+
+## 📌 Contributions
+
+This is a personal learning space, but feel free to fork and build upon any project ideas.
+
+
+
+
+<!--
 ## **Starter Projects** (Basic CRUD, Minimal Features)  
 
 1. Online Beauty Shop  
